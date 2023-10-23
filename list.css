@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(129, 129, 249);
+    text-align: center;
+}
+
+h1 { 
+    font-size: 100px;
+    text-align: center;
+}
+form {
+    font-size: 50px;
+    border-color: red;
+    text-align: center;
+}
+
+#list {
+    margin-top:50px;;
+    font-size: 30px;
+    text-align: center;
+    color:rgb(4, 4, 4)
+}
